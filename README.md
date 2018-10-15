@@ -1,2 +1,2 @@
 # thedataguy.github.io
-Interesting Data Science Projects Portfolio
+Interesting Data Science Projects
